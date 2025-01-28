@@ -1,4 +1,4 @@
-# [blockbreaker.im](https://blockbreaker.im/)
+# [Block Breaker](https://blockbreaker.im/)
 
 Block Breaker, also known by names such as Breakout, Arkanoid, or simply brick breaker, is a timeless arcade game that has captivated players for generations. Its simple yet addictive gameplay, combined with a sense of progression and challenge, has cemented its place in video game history. This article will explore the enduring appeal of [**Block Breaker**](https://blockbreaker.im/), delving into its origins, mechanics, variations, and why it continues to resonate with gamers today.
 
